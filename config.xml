@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<widget id="com.ionicframework.oukanwordpressionic519302" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
-  <name>oukan-wordpress-ionic</name>
+<widget id="com.smartit.wp38746" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+  <name>smartit</name>
   <description>
-       Wordpress使用WP-REST-API插件作为RESTful后台，通过Ionic来读取数据，并制作成APP。通过Wordpress强大的插件，可以满足大部分需求。
+       Client Application for smartit.com
     </description>
-  <author email="23leo@163.com" href="http://www.oukan.net/">
-      oukan
+  <author email="matar@grey-shade.com" href="http://grey-shade.com/">
+      Mohammed Matar
     </author>
   <content src="index.html"/>
   <access origin="*"/>
