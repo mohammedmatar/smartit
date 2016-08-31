@@ -1,4 +1,4 @@
-/* by: 偶看 
+/* by: 
  * http://www.oukan.net
  * 2015-07-26
  * base tabs
@@ -25,8 +25,8 @@ angular.module('oukanblog', [
         });
     })
     .constant('configuration', {
-        apiUrl: 'http://www.oukan.net/wp-json/wp/v2',
-        websiteName: '偶看博客'
+        apiUrl: 'http://smartsoftit.com/wp-json/wp/v2',
+        websiteName: 'Smart IT'
     })
 
 .config(function($stateProvider, $urlRouterProvider) {
